@@ -1,0 +1,1 @@
+Assignment was coded in Python. Just open the Assign_1.py file and run it.

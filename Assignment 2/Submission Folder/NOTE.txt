@@ -1,0 +1,5 @@
+This program was written in python. Just open and run, might have to install some imports for the excel file output
+There is a file called para.txt file that can be used to load parameters from.
+Excel file with all data and graphs is included.
+2 input files that are the inputs are included and have been modified a little bit to be easier to read in to the program.
+IEEE paper is also included.

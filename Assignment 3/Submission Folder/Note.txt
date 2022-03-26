@@ -1,0 +1,7 @@
+This assignment was made in Python, there shouldn't be any libraries that need to be installed and should just work.
+
+The only problem that could maybe rise up is the NeuronLayer not being detected by the code, I have no idea why it doesn't find it sometimes, but does some other times
+
+The only way to fix that, that I have got to work, was to just copy the NeuronLayer class from its own file into the main program file
+
+I've attached some pictures that helped me, I think I've understood how to do back propigation(or atleast the concept and how it works out on paper) but mostly likely did it wrong in code
